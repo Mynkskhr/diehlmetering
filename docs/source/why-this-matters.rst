@@ -11,6 +11,16 @@ These regulations are enforced nationally, interpreted differently by
 authorities, and increasingly referenced by customers during procurement
 and assurance processes.
 
+Germany has completed the transposition of the NIS2 Directive into national law.
+
+From 6 January 2026, NIS2 obligations become legally enforceable in Germany,
+including supervisory oversight and sanctioning powers.
+
+Thinkwerke supports organisations in moving from regulatory interpretation
+to evidence-based execution — enabling compliance without disrupting
+product development, sales, or platform growth.
+
+
 For leadership, this creates three realities:
 
 • Compliance outcomes influence revenue, not just risk  
