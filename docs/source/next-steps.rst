@@ -14,7 +14,7 @@ The initial phase focuses on:
 
 • A selected product line or platform  
 • A representative country baseline for NIS2  
-• Core CRA and ISO/IEC 27001 requirements  
+• Core CRA and ISO 27001 requirements  
 • Evidence generation aligned with real operations  
 
 This allows leadership to validate the execution model using tangible
