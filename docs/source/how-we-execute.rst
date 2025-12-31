@@ -68,18 +68,9 @@ This reduces risk while allowing measurable progress at every stage.
 Germany-first NIS2 rollout
 ==========================
 
-```mermaid
-
-
+.. mermaid::
 
    flowchart LR
-     A[Germany baseline\nNIS2 as national law]
-     B[Evidence-driven implementation]
-     C[Country extensions\nEU rollout]
-     D[Continuous assurance\nSales + audits]
-
-     A --> B --> C --> D
-
-
-
-```
+     A[Germany baseline\nNIS2 national law] --> B[Evidence-driven implementation]
+     B --> C[Country extensions\nEU rollout]
+     C --> D[Continuous assurance\nSales + audits]
