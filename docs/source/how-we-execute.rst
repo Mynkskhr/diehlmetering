@@ -70,6 +70,8 @@ Germany-first NIS2 rollout
 
 ```mermaid
 
+
+
    flowchart LR
      A[Germany baseline\nNIS2 as national law]
      B[Evidence-driven implementation]
