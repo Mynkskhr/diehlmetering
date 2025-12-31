@@ -68,7 +68,7 @@ This reduces risk while allowing measurable progress at every stage.
 Germany-first NIS2 rollout
 ==========================
 
-.. mermaid::
+```mermaid
 
    flowchart LR
      A[Germany baseline\nNIS2 as national law]
@@ -78,3 +78,6 @@ Germany-first NIS2 rollout
 
      A --> B --> C --> D
 
+
+
+```
