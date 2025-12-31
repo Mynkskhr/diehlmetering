@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Diehl Metering'
+copyright = '2026, Thinkwerke'
+author = 'Thinkwerke'
 
 release = '0.1'
 version = '0.1.0'
@@ -12,12 +12,15 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
+    "sphinx.ext.duration",
+    "sphinx.ext.doctest",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
+    "sphinxcontrib.mermaid",
 ]
+
+mermaid_version = "10.9.1"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
