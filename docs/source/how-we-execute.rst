@@ -63,3 +63,18 @@ Execution follows a controlled, step-by-step approach:
 • Expand incrementally across products and countries  
 
 This reduces risk while allowing measurable progress at every stage.
+
+
+Germany-first NIS2 rollout
+==========================
+
+.. mermaid::
+
+   flowchart LR
+     A[Germany baseline\nNIS2 as national law]
+     B[Evidence-driven implementation]
+     C[Country extensions\nEU rollout]
+     D[Continuous assurance\nSales + audits]
+
+     A --> B --> C --> D
+
