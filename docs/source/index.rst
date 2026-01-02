@@ -1,7 +1,7 @@
 A Unified EU Cybersecurity & Compliance Framework for Diehl Metering
 ====================================================================
 
-Strategic NIS2, CRA & ISO 27001 execution for multi-country EU operations.
+Strategic NIS2, CRA, ISO 27001 & GDPR execution for multi-country EU operations.
 
 Purpose
 -------
