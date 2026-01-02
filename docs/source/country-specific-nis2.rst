@@ -9,30 +9,23 @@ duplicating effort, fragmenting execution, or slowing delivery.
 .. mermaid::
 
    flowchart TD
-       A[EU NIS2 Directive]
-       B[Unified NIS2 Framework]
-       C[Germany]
-       D[France]
-       E[Sweden]
-       F[Single Evidence Layer]
-       G[Audits]
-       H[Sales/Tenders]
-       I[Customers Assurance]
-       J[Executive Reports]
+       A[EU NIS2 Directive] --> B[Unified NIS2 Control Framework]
 
-       A --> B
-       B --> C
-       B --> D
-       B --> E
+       B --> C[Germany NIS2UmsuCG]
+       B --> D[France Transposition]
+       B --> E[Netherlands Transposition]
+       B --> F[Other EU States]
 
-       C --> F
-       D --> F
-       E --> F
-
+       C --> G[Country Specific Evidence]
+       D --> G
+       E --> G
        F --> G
-       F --> H
-       F --> I
-       F --> J
+
+       G --> H[Single Evidence Library]
+       H --> I[Audits]
+       H --> J[Tenders]
+       H --> K[Customers]
+       H --> L[Executive Oversight]
 
 
 “We start with one unified NIS2 control framework, overlay each country’s legal transposition, generate country-specific evidence automatically, and reuse that evidence across audits, tenders, customers, and executive reporting.”
