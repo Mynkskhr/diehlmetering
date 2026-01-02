@@ -4,7 +4,7 @@ Thinkwerke Solution
 A unified execution model that turns NIS2, CRA, and ISO 27001 into an operational,
 repeatable, and business-aligned capability for Diehl Metering.
 
-**One framework. One execution plan. Continuous evidence across products,
+**One Solution. One execution plan. Continuous evidence across products,
 platforms, and countries.**
 
 .. mermaid::
@@ -21,7 +21,7 @@ platforms, and countries.**
        ENG --> EVID
        EVID --> BIZ
 
-What the Framework Solves
+What the Solution Solves
 -------------------------
 
 Diehl Metering operates across multiple countries, regulatory regimes, and
@@ -32,7 +32,7 @@ product portfolios. Traditional compliance approaches break down because they:
 - Create dependency on engineering teams for explanations and audits
 - Do not scale across countries, products, or future regulations
 
-The Thinkwerke Framework addresses this by **connecting regulation directly to
+The Thinkwerke Solution addresses this by **connecting regulation directly to
 execution**, and execution directly to **business outcomes**.
 
 .. mermaid::
@@ -47,7 +47,7 @@ execution**, and execution directly to **business outcomes**.
        EVID --> DASH
        DASH --> EXEC
 
-Core Pillars of the Framework
+Core Pillars of the Solution
 -----------------------------
 
 1. Regulation Translated into Controls
@@ -103,7 +103,7 @@ Evidence structures and export models are documented in:
 4. Executive-Accessible Governance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The framework is designed so that **executives do not need engineering
+The Solution is designed so that **executives do not need engineering
 translation** to understand status or risk.
 
 This is achieved through:
@@ -118,7 +118,7 @@ Governance and executive views are explained in:
 Country-Specific Without Fragmentation
 --------------------------------------
 
-The Thinkwerke Framework separates:
+The Thinkwerke Solution separates:
 
 - **What is common across the EU**
 - **What is country-specific under NIS2 transposition**
@@ -180,7 +180,7 @@ The country-specific execution model is detailed in:
 Designed for Growth, Not Constraint
 -----------------------------------
 
-A key design principle of the Thinkwerke Framework is **no architectural lock-in**.
+A key design principle of the Thinkwerke Solution is **no architectural lock-in**.
 
 Compliance controls:
 
@@ -196,7 +196,7 @@ Architecture protection principles are explained in:
 Why This Matters Strategically
 ------------------------------
 
-The Thinkwerke Framework allows Diehl Metering to:
+The Thinkwerke Solution allows Diehl Metering to:
 
 - Meet German NIS2 obligations today
 - Scale efficiently as other EU countries enforce NIS2
@@ -210,7 +210,7 @@ defensible capability**.
 Key Takeaway
 ------------
 
-The Thinkwerke Framework is not a compliance project.
+The Thinkwerke Solution is not a compliance project.
 
 It is a **business operating model** that aligns regulation, engineering,
 documentation, and executive oversight into one coherent system — built to
