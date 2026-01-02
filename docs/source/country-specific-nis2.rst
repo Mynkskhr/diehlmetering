@@ -4,7 +4,29 @@ Country-Specific NIS2 Without Fragmentation
 How Diehl Metering can meet national NIS2 requirements across Europe without
 duplicating effort, fragmenting execution, or slowing delivery.
 
-***Local compliance execution built on a single, shared European framework.***
+**Local compliance execution built on a single, shared European framework.**
+
+flowchart TD
+    A[EU NIS2 Directive] --> B[Unified NIS2 Control Framework]
+
+    B --> C[Germany NIS2UmsuCG]
+    B --> D[France Transposition]
+    B --> E[Netherlands Transposition]
+    B --> F[Other EU States]
+
+    C --> G[Country Specific Evidence]
+    D --> G
+    E --> G
+    F --> G
+
+    G --> H[Single Evidence Library]
+    H --> I[Audits]
+    H --> J[Tenders]
+    H --> K[Customers]
+    H --> L[Executive Oversight]
+
+
+“We start with one unified NIS2 control framework, overlay each country’s legal transposition, generate country-specific evidence automatically, and reuse that evidence across audits, tenders, customers, and executive reporting.”
 
 The Core Challenge
 ------------------
