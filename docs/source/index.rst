@@ -1,13 +1,39 @@
 A Unified EU Cybersecurity & Compliance Framework for Diehl Metering
 ====================================================================
-Turning NIS2, CRA, ISO 27001 and GDPR from regulatory burden into a reusable business capability
-------------------------------------------------------------------------------------------------
 
 Strategic NIS2, CRA & ISO 27001 execution for multi-country EU operations.
 
-This documentation explains how Thinkwerke enables Diehl Metering to
-operate a scalable, country-aware cybersecurity and compliance framework
-without slowing software delivery or business growth.
+Purpose
+-------
+
+This Web-Doc provides executive-level visibility into how Diehl Metering can operationalize
+EU cybersecurity regulation across multiple countries without slowing growth, delivery,
+or sales.
+
+What this site is
+-----------------
+- A business-facing assurance view (not technical documentation)
+- A single source of truth for executives, sales, and auditors
+- Living evidence aligned with NIS2, CRA, and ISO 27001
+
+What this site is not
+---------------------
+- A compliance checklist
+- A static consultant report
+- A technical-only repository
+
+.. toctree::
+   :maxdepth: 1
+
+   nis2-europe-reality
+   thinkwerke-framework
+   country-specific-nis2
+   architecture-growth-protection
+   evidence-sales-enablement
+   business-impact
+   poc-timeline
+   next-steps
+
 
 .. toctree::
    :maxdepth: 1
