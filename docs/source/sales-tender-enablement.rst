@@ -35,15 +35,20 @@ Thinkwerke transforms operational security controls into
 
 The flow is simple and repeatable:
 
-[NIS2 / CRA / ISO 27001 Requirements]
-            ↓
-[Security & Compliance Controls]
-            ↓
-[CI/CD • Cloud • Product Architecture]
-            ↓
-[Continuous Evidence Generation]
-            ↓
-[Audits • Customers • Tenders • Executives]
+.. mermaid::
+
+   flowchart TB
+       REG[NIS2 • CRA • ISO 27001]
+       CTRL[Security and Compliance Controls]
+       ENG[CI/CD • Cloud • Product Architecture]
+       EVID[Continuous Evidence Generation]
+       BIZ[Audits • Customers • Tenders • Executives]
+
+       REG --> CTRL
+       CTRL --> ENG
+       ENG --> EVID
+       EVID --> BIZ
+
 
 This means:
 
