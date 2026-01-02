@@ -6,24 +6,33 @@ duplicating effort, fragmenting execution, or slowing delivery.
 
 **Local compliance execution built on a single, shared European framework.**
 
-flowchart TD
-    A[EU NIS2 Directive] --> B[Unified NIS2 Control Framework]
+.. mermaid::
 
-    B --> C[Germany NIS2UmsuCG]
-    B --> D[France Transposition]
-    B --> E[Netherlands Transposition]
-    B --> F[Other EU States]
+   flowchart TD
+       A[EU NIS2 Directive]
+       B[Unified NIS2 Framework]
+       C[Germany]
+       D[France]
+       E[Netherlands]
+       F[Single Evidence Layer]
+       G[Audits]
+       H[Tenders]
+       I[Customers]
+       J[Executives]
 
-    C --> G[Country Specific Evidence]
-    D --> G
-    E --> G
-    F --> G
+       A --> B
+       B --> C
+       B --> D
+       B --> E
 
-    G --> H[Single Evidence Library]
-    H --> I[Audits]
-    H --> J[Tenders]
-    H --> K[Customers]
-    H --> L[Executive Oversight]
+       C --> F
+       D --> F
+       E --> F
+
+       F --> G
+       F --> H
+       F --> I
+       F --> J
 
 
 “We start with one unified NIS2 control framework, overlay each country’s legal transposition, generate country-specific evidence automatically, and reuse that evidence across audits, tenders, customers, and executive reporting.”
