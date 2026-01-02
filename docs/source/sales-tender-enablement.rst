@@ -4,8 +4,8 @@ Evidence & Sales Enablement
 Turning security and compliance from a sales blocker
 into a measurable revenue accelerator.
 
-***How Diehl Metering embeds NIS2, CRA, and ISO 27001 evidence
-directly into sales, tenders, and customer assurance.***
+**How Diehl Metering embeds NIS2, CRA, and ISO 27001 evidence
+directly into sales, tenders, and customer assurance.**
 
 The Executive Reality
 ---------------------
