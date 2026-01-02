@@ -7,43 +7,29 @@ Purpose
 -------
 
 This Web-Doc provides executive-level visibility into how Diehl Metering can operationalize
-EU cybersecurity regulation across multiple countries without slowing growth, delivery,
-or sales.
-
-What this site is
------------------
-- A business-facing assurance view (not technical documentation)
-- A single source of truth for executives, sales, and auditors
-- Living evidence aligned with NIS2, CRA, and ISO 27001
-
-What this site is not
----------------------
-- A compliance checklist
-- A static consultant report
-- A technical-only repository
-
+EU cybersecurity regulation & Compliance requirements across multiple countries with different requirements to justify fulfillment of NIS2 and CRA, 
+How Thinkwerke solves this problem without slowing growth, delivery, or sales, of Diehl Metering, streamlines the entire process and in "One Execution Plan"
+with contineous deliverable milestone for SVPs of Diehl Metering to show the fullfillment to Division Board.
 
 
 .. toctree::
    :maxdepth: 1
-
-   nis2-europe-reality
-   thinkwerke-framework
-   country-specific-nis2
-   architecture-growth-protection
-   evidence-sales-enablement
-   business-impact
-   poc-timeline
-   next-steps
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Executive Overview
+   :Executive Overview
 
    index
    executive-summary
    business-outcomes
+
+.. toctree::
+   :maxdepth: 1
+
+   nis2-2026
+   thinkwerke-framework
+   country-specific-nis2
+   architecture-development
+   evidence-sales-enablement
+   business-impact
+   poc-timeline
 
 .. toctree::
    :maxdepth: 1
