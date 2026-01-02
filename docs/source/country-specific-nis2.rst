@@ -70,19 +70,25 @@ Thinkwerke separates **what must be common** from **what must be local**.
 This allows Diehl Metering to operate one execution model, while still complying
 with national requirements.
 
-The structure looks like this:
+.. mermaid::
 
-::
+   flowchart LR
+       A[Regulations]
+       B[Controls]
+       C[Engineering]
+       D[Evidence]
 
-   ┌───────────────────────────────────────┐
-   │ EU-Level Execution Framework           │
-   │ (Controls, Architecture, Evidence)     │
-   └───────────────────────────────────────┘
-                   ↓
-   ┌───────────────────────────────────────┐
-   │ Country-Specific NIS2 Layers           │
-   │ (Reporting, Authorities, Thresholds)  │
-   └───────────────────────────────────────┘
+       A --> B
+       B --> C
+       C --> D
+
+**Flow explanation**
+
+- Regulations: NIS2, CRA, ISO 27001
+- Controls: Risk management and security controls
+- Engineering: CI/CD, Cloud, Product architecture
+- Evidence: Audits, sales, tenders, executive reporting
+
 
 What Is Common Across All Countries
 ----------------------------------
@@ -124,6 +130,21 @@ This ensures:
 
 Germany as the Reference Model
 ------------------------------
+
+.. mermaid::
+
+   flowchart TD
+       A[NIS2 EU]
+       B[Germany Law]
+       C[BSI Oversight]
+       D[Registration Portal]
+       E[Evidence System]
+
+       A --> B
+       B --> C
+       C --> D
+       D --> E
+
 
 Germany’s NIS2 implementation (NIS2UmsuCG) is used as the **reference baseline**,
 because it is:
