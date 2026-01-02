@@ -7,6 +7,21 @@ repeatable, and business-aligned capability for Diehl Metering.
 **One framework. One execution plan. Continuous evidence across products,
 platforms, and countries.**
 
+.. mermaid::
+
+   flowchart LR
+       REG[NIS2 • CRA • ISO 27001]
+       CTRL[Security and Compliance Controls]
+       ENG[CI/CD • Cloud • Product Architecture]
+       EVID[Continuous Evidence Generation]
+       BIZ[Audits • Customers • Tenders • Executives]
+
+       REG --> CTRL
+       CTRL --> ENG
+       ENG --> EVID
+       EVID --> BIZ
+
+
 What the Framework Solves
 -------------------------
 
@@ -20,6 +35,19 @@ product portfolios. Traditional compliance approaches break down because they:
 
 The Thinkwerke Framework addresses this by **connecting regulation directly to
 execution**, and execution directly to **business outcomes**.
+
+.. mermaid::
+
+   flowchart TD
+       EXEC[Board • SVP • Directors]
+       DASH[Executive Dashboards]
+       EVID[Evidence Library]
+       PIPE[Engineering Pipelines]
+
+       PIPE --> EVID
+       EVID --> DASH
+       DASH --> EXEC
+
 
 Framework at a Glance
 ---------------------
@@ -116,6 +144,21 @@ The Thinkwerke Framework separates:
 
 - **What is common across the EU**
 - **What is country-specific under NIS2 transposition**
+
+.. mermaid::
+
+   flowchart TB
+       CORE[Unified Thinkwerke Framework]
+       DE[Germany NIS2UmsuCG]
+       FR[France NIS2]
+       IT[Italy NIS2]
+       ES[Spain NIS2]
+
+       CORE --> DE
+       CORE --> FR
+       CORE --> IT
+       CORE --> ES
+
 
 This allows Diehl Metering to:
 
