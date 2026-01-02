@@ -4,8 +4,8 @@ The Thinkwerke Framework
 A unified execution model that turns NIS2, CRA, and ISO 27001 into an operational,
 repeatable, and business-aligned capability for Diehl Metering.
 
-***One framework. One execution plan. Continuous evidence across products,
-platforms, and countries.***
+**One framework. One execution plan. Continuous evidence across products,
+platforms, and countries.**
 
 What the Framework Solves
 -------------------------
