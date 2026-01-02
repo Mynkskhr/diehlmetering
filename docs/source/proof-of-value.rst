@@ -4,7 +4,7 @@ Proof of Value (PoC)
 A low-risk, time-bound execution that demonstrates real outcomes
 before full-scale rollout.
 
-**Show — not promise — how NIS2, CRA, and ISO 27001 execution works
+**Show - not promise - how NIS2, CRA, and ISO 27001 execution works
 inside Diehl Metering, Thinkwerke is not just promision a "Proof-of-Concept", we are promising a "Proof-of-Value"**
 
 Why a Proof of Value
