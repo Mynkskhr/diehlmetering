@@ -126,16 +126,46 @@ The Thinkwerke Framework separates:
 .. mermaid::
 
    flowchart TB
-       CORE[Unified Thinkwerke Framework]
-       DE[Germany NIS2UmsuCG]
-       FR[France NIS2]
-       IT[Italy NIS2]
-       ES[Spain NIS2]
 
-       CORE --> DE
-       CORE --> FR
-       CORE --> IT
-       CORE --> ES
+      A["Start: Germany-first rollout strategy"] --> B["Phase 1: Germany baseline NIS2 program"]
+      B --> C["Phase 2: Evidence engine & operating model"]
+      C --> D["Phase 3: Expand to other EU countries"]
+      D --> E["Phase 4: Sustain & scale across portfolio"]
+
+      %% Phase 1
+      B --> P1a["Scope: Germany entities & systems"]
+      P1a --> P1b["Map NIS2 requirements to controls"]
+      P1b --> P1c["Define ownership & accountability"]
+      P1c --> P1d["Initial executive reporting model"]
+
+      %% Milestone
+      P1d --> M1a["Germany registration & reporting portal: Jan 6, 2026"]
+      M1a --> M1b["Target: Germany readiness with defensible evidence"]
+
+      %% Phase 2
+      C --> P2a["Implement control → proof workflow"]
+      P2a --> P2b["Central evidence library"]
+      P2b --> P2c["Executive-readable documentation"]
+      P2c --> P2d["Operational cadence & reviews"]
+
+      %% Phase 3
+      D --> P3a["Country delta mapping"]
+      P3a --> P3b["Add only necessary country-specific controls"]
+      P3b --> P3c["Reuse Germany artifacts wherever possible"]
+      P3c --> P3d["Unified reporting across countries"]
+
+      %% Phase 4
+      E --> P4a["Continuous compliance monitoring"]
+      P4a --> P4b["Portfolio onboarding playbook"]
+      P4b --> P4c["Quarterly executive assurance pack"]
+      P4c --> P4d["Tender & customer assurance enablement"]
+
+      %% Executive Outcomes
+      P2d --> O1["Germany compliant first → scalable EU compliance"]
+      P3d --> O2["Evidence produced once → reused many times"]
+      P4d --> O3["No growth restrictions or rearchitecture"]
+      O3 --> O4["Executives can read, steer, and defend decisions"]
+
 
 
 This allows Diehl Metering to:
