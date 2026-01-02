@@ -9,7 +9,7 @@ incident reporting, and executive accountability.**
 
 .. mermaid::
 
-   flowchart LR
+   flowchart TB
        EU[EU NIS2 Directive 2022/2555]
        DE[Germany NIS2UmsuCG adopted Nov 13 2025]
        LAW[Binding German law from Dec 6 2025]
