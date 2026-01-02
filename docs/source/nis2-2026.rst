@@ -13,7 +13,7 @@ incident reporting, and executive accountability.**
        EU[EU NIS2 Directive 2022/2555]
        DE[Germany NIS2UmsuCG adopted Nov 13 2025]
        LAW[Binding German law from Dec 6 2025]
-       BSI[enforcement and supervision from Jan 6, 2026]
+       BSI[enforcement and supervision from Jan 6 2026]
        MGMT[Management accountability Board SVP Directors]
 
        EU --> DE
