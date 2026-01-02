@@ -4,8 +4,23 @@ NIS2 Directive Is Now "Law" in Germany
 Why December 6, 2025 and January 6, 2026 mark a structural shift for regulated
 organisations operating in Germany and across the EU.
 
-***From “future directive” to enforceable national law with mandatory registration,
-incident reporting, and executive accountability.***
+**From “future directive” to enforceable national law with mandatory registration,
+incident reporting, and executive accountability.**
+
+.. mermaid::
+
+   flowchart LR
+       EU[EU NIS2 Directive 2022/2555]
+       DE[Germany NIS2UmsuCG adopted Nov 13 2025]
+       LAW[Binding German law from Dec 6 2025]
+       BSI[BSI enforcement and supervision]
+       MGMT[Management accountability Board SVP Directors]
+
+       EU --> DE
+       DE --> LAW
+       LAW --> BSI
+       BSI --> MGMT
+
 
 Context for Diehl Metering
 --------------------------
@@ -14,8 +29,8 @@ The EU NIS2 Directive is no longer a future regulatory concept.
 In Germany, it has been fully transposed into national law and is now
 **legally binding**.
 
-For organisations like Diehl Metering — operating across multiple EU countries,
-serving utilities, municipalities, and critical infrastructure customers —
+For organisations like Diehl Metering, operating across multiple EU countries,
+serving utilities, municipalities, and critical infrastructure customers -
 this transition changes NIS2 from a compliance discussion into an **operational
 and governance requirement**.
 
