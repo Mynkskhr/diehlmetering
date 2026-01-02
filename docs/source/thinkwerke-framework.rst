@@ -1,5 +1,5 @@
-The Thinkwerke Framework
-========================
+Thinkwerke Solution
+===================
 
 A unified execution model that turns NIS2, CRA, and ISO 27001 into an operational,
 repeatable, and business-aligned capability for Diehl Metering.
