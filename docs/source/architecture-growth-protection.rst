@@ -4,7 +4,7 @@ Architecture & Solution Growth Protection
 How Thinkwerke ensures that NIS2, CRA, and ISO 27001 compliance strengthens
 Diehl Metering’s platform architecture instead of constraining it.
 
-***Security and compliance that scale with products, markets, and innovation.***
+**Security and compliance that scale with products, markets, and innovation.**
 
 The Executive Concern
 ---------------------
