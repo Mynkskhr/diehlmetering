@@ -13,12 +13,12 @@ duplicating effort, fragmenting execution, or slowing delivery.
        B[Unified NIS2 Framework]
        C[Germany]
        D[France]
-       E[Netherlands]
+       E[Sweden]
        F[Single Evidence Layer]
        G[Audits]
-       H[Tenders]
-       I[Customers]
-       J[Executives]
+       H[Sales/Tenders]
+       I[Customers Assurance]
+       J[Executive Reports]
 
        A --> B
        B --> C
