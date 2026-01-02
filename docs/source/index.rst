@@ -22,6 +22,8 @@ What this site is not
 - A static consultant report
 - A technical-only repository
 
+
+
 .. toctree::
    :maxdepth: 1
 
