@@ -165,15 +165,6 @@ This allows Diehl Metering to:
 - Reuse the same evidence for ISO 27001, CRA, and customer assurance
 - Maintain growth and delivery speed without re-architecture
 
-Key Takeaway
-------------
-
-As of **December 6, 2025**, NIS2 is binding law in Germany.  
-As of **January 6, 2026**, compliance becomes operationally visible through
-mandatory registration and reporting.
-
-NIS2 is no longer a future concern.
-
 The question for Diehl Metering is no longer *if* NIS2 applies —  
 but **how it is executed, governed, and demonstrated** in a way that supports
 business strategy, sales, and long-term resilience.
