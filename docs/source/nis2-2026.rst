@@ -1,11 +1,120 @@
 NIS2 Is Now Law in Germany
-=========================
+==========================
 
-Why December 6, 2025 and January 6, 2026 mark a fundamental shift for regulated
-organisations operating in Germany.
+Why December 6, 2025 and January 6, 2026 mark a structural shift for regulated
+organisations operating in Germany and across the EU.
 
 Subtitle
 --------
 
-From EU directive to enforceable national law with mandatory registration,
+From “future directive” to enforceable national law with mandatory registration,
 incident reporting, and executive accountability.
+
+Context for Diehl Metering
+--------------------------
+
+The EU NIS2 Directive is no longer a future regulatory concept.  
+In Germany, it has been fully transposed into national law and is now
+**legally binding**.
+
+For organisations like Diehl Metering — operating across multiple EU countries,
+serving utilities, municipalities, and critical infrastructure customers —
+this transition changes NIS2 from a compliance discussion into an **operational
+and governance requirement**.
+
+Key Dates That Matter
+---------------------
+
+**December 6, 2025 — NIS2 enters into force in Germany**
+
+On this date, Germany’s implementation of NIS2 became binding law through the
+*NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz (NIS2UmsuCG)*.
+
+From this point onward:
+
+- NIS2 obligations are enforceable, not optional
+- Supervisory authorities (BSI) gain expanded inspection and enforcement powers
+- Management responsibility becomes explicit and traceable
+- Fines, sanctions, and procurement consequences become real risks
+
+NIS2 can no longer be treated as a “coming directive” or postponed initiative.
+
+**January 6, 2026 — Mandatory BSI Portal Goes Live**
+
+On January 6, 2026, Germany opens the **official online portal** operated by the
+Federal Office for Information Security (BSI) for:
+
+- Mandatory registration of regulated entities
+- Incident reporting under NIS2
+- Ongoing supervisory interaction
+
+From this date forward:
+
+- Compliance becomes **observable**, not declarative
+- Incident handling and reporting timelines are enforced
+- Evidence of risk management, secure development, and governance is expected
+- Regulatory engagement becomes continuous, not episodic
+
+For executives, this marks the point where **visibility, preparedness, and
+documentation quality** directly affect regulatory outcomes.
+
+Why This Matters at Executive Level
+-----------------------------------
+
+NIS2 explicitly strengthens management accountability.
+
+This includes:
+
+- Responsibility at Board, Division Board, SVP, and VP level
+- Obligation to ensure risk management measures are implemented
+- Oversight of secure development, vulnerability handling, and incident response
+- Personal accountability in cases of systemic failure or negligence
+
+NIS2 is therefore not an IT or security-only topic.  
+It is a **governance, risk, and business continuity issue**.
+
+The Risk of Treating NIS2 as “Just Compliance”
+----------------------------------------------
+
+Organisations that approach NIS2 as a checkbox exercise face predictable risks:
+
+- Fragmented country-by-country implementations
+- Duplication of effort and documentation
+- Engineering teams becoming bottlenecks for explanations and evidence
+- Reactive responses to audits, incidents, and tenders
+- Inconsistent narratives toward regulators and customers
+
+This approach increases cost and uncertainty — without increasing assurance.
+
+What Changes with the Thinkwerke Approach
+-----------------------------------------
+
+Thinkwerke treats NIS2 as an **execution problem**, not a documentation problem.
+
+Instead of static policies, the focus is on:
+
+- Operational risk management embedded in engineering and cloud platforms
+- Continuous evidence generated through normal delivery processes
+- Clear separation between policy, implementation, and proof
+- Executive-accessible documentation that does not require technical translation
+- A single execution framework adaptable to country-specific NIS2 requirements
+
+This allows Diehl Metering to:
+
+- Comply with German law today
+- Adapt efficiently as other EU countries complete their NIS2 transpositions
+- Reuse the same evidence for ISO 27001, CRA, and customer assurance
+- Maintain growth and delivery speed without re-architecture
+
+Key Takeaway
+------------
+
+As of **December 6, 2025**, NIS2 is binding law in Germany.  
+As of **January 6, 2026**, compliance becomes operationally visible through
+mandatory registration and reporting.
+
+NIS2 is no longer a future concern.
+
+The question for Diehl Metering is no longer *if* NIS2 applies —  
+but **how it is executed, governed, and demonstrated** in a way that supports
+business strategy, sales, and long-term resilience.
