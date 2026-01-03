@@ -10,7 +10,7 @@ A Unified EU Cybersecurity & Compliance Framework for Diehl Metering
 
 .. toctree::
    :maxdepth: 1
-   :caption: Unified Approach
+   :caption: One Execution Plan
 
    nis2-2026
    country-specific-nis2
