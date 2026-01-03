@@ -14,14 +14,14 @@ with contineous deliverable milestone for SVPs of Diehl Metering to show the ful
 
 .. toctree::
    :maxdepth: 1
-   :Executive Overview
+   :caption: Executive Overview
 
-   index
    executive-summary
    business-outcomes
 
 .. toctree::
    :maxdepth: 1
+   :caption: Unified Approach
 
    nis2-2026
    country-specific-nis2
