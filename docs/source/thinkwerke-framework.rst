@@ -63,7 +63,6 @@ This ensures:
 - Future regulations can be added without redesign
 
 Detailed mappings and control rationale are documented in:
-Detailed mappings and control rationale are documented in:
 `NIS2, CRA, and ISO 27001 mappings <https://docs.thinkwerke.com/en/latest/compliance/index.html>`_
 
 2. Controls Embedded into Engineering Reality
@@ -79,9 +78,11 @@ Controls are implemented directly into:
 This removes the gap between *policy* and *practice*.
 
 Technical execution details are described in:
-- :doc:`Secure Software Lifecycle <docs.thinkwerke.com/en/latest/solutions/secure-software-lifecycle>`
-- :doc:`Vulnerability Lifecycle <docs.thinkwerke.com/en/latest/solutions/vulnerability-lifecycle>`
-- :doc:`Cloud Security Foundations <docs.thinkwerke.com/en/latest/solutions/cloud-security-foundations>`
+
+- `Secure Software Lifecycle <https://docs.thinkwerke.com/en/latest/solutions/secure-software-lifecycle.html>`_
+- `Vulnerability Lifecycle <https://docs.thinkwerke.com/en/latest/solutions/vulnerability-lifecycle.html>`_
+- `Cloud Security Foundations <https://docs.thinkwerke.com/en/latest/solutions/cloud-security-foundations.html>`_
+
 
 3. Continuous Evidence by Design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,9 +98,10 @@ This includes:
 - Architecture and control traceability
 
 Evidence structures and export models are documented in:
-- :doc:`Evidence Library <docs.thinkwerke.com/en/latest/evidence-library/index>`
-- :doc:`Control-to-Proof Mapping <docs.thinkwerke.com/en/latest/evidence-library/control-to-proof>`
-- :doc:`Exportable Artifacts <docs.thinkwerke.com/en/latest/evidence-library/exportable-artifacts>`
+
+- `Evidence Library <https://docs.thinkwerke.com/en/latest/evidence-library/>`_
+- `Control-to-Proof Mapping <https://docs.thinkwerke.com/en/latest/evidence-library/control-to-proof/>`_
+- `Exportable Artifacts <https://docs.thinkwerke.com/en/latest/evidence-library/exportable-artifacts/>`_
 
 4. Executive-Accessible Governance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,7 +116,7 @@ This is achieved through:
 - Consistent narratives for regulators, customers, and auditors
 
 Governance and executive views are explained in:
-:doc:`Executive Visibility <docs.thinkwerke.com/en/latest/executive-visibility>`
+`Executive Visibility <https://docs.thinkwerke.com/en/latest/executive-visibility>`_
 
 Country-Specific Without Fragmentation
 --------------------------------------
