@@ -68,11 +68,11 @@ Executives can begin with three questions:
 2. Can we demonstrate readiness consistently across all EU countries?
 3. Is compliance currently slowing sales, delivery, or engineering?
 
-If any answer is “no”, this framework is the execution path.
+If any answer is “no”, this Solution is the execution path.
 
 See also:
 ---------
 
-- `Business Outcomes <business-outcomes>`
+- `Business Outcomes <https://diehlmetering.thinkwerke.com/en/latest/business-outcomes/>`_
 - `The Thinkwerke Solution <https://diehlmetering.thinkwerke.com/en/latest/thinkwerke-framework/>`_
 - `NIS2 Germany 2026 Overview <https://diehlmetering.thinkwerke.com/en/latest/nis2-2026/>`_
