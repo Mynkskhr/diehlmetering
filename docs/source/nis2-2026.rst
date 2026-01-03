@@ -150,14 +150,6 @@ What Changes with the Thinkwerke Approach
 
 Thinkwerke treats NIS2 as an **execution problem**, not a documentation problem.
 
-Instead of static policies, the focus is on:
-
-- Operational risk management embedded in engineering and cloud platforms
-- Continuous evidence generated through normal delivery processes
-- Clear separation between policy, implementation, and proof
-- Executive-accessible documentation that does not require technical translation
-- A single execution framework adaptable to country-specific NIS2 requirements
-
 This allows Diehl Metering to:
 
 - Comply with German law today
