@@ -17,7 +17,7 @@ Through a single, coherent approach, Thinkwerke ensures:
 
 * **NIS2 compliance by design**, aligned with national transpositions and supervisory expectations across EU jurisdictions.
 * **CRA readiness embedded into product engineering**, avoiding future rework, enforcement risk, and market disruption.
-* **ISO/IEC 27001 alignment and certification capability**, supported by real operational evidence rather than documentation alone.
+* **ISO 27001 alignment and certification capability**, supported by real operational evidence rather than documentation alone.
 * **GDPR assurance backed by technical proof**, not policy statements or theoretical controls.
 * A **reusable, continuously updated evidence base** that supports:
   
@@ -29,7 +29,7 @@ Through a single, coherent approach, Thinkwerke ensures:
 One Execution Plan
 ------------------
 
-This approach is delivered as **One Execution Plan**, designed specifically for **SVPs and Division Leadership**, with:
+This approach is delivered as **One Execution Plan**, designed specifically for **SVPs**, with:
 
 * measurable milestones and accountability
 * defensible, regulator-ready documentation
@@ -53,22 +53,11 @@ Strategic Outcome
 
 Thinkwerke ensures that Diehl Metering achieves this transformation in a way that:
 
-* protects delivery speed
-* enables market expansion
+* protects delivery speed - Enable faster sales and public tender wins
 * strengthens executive control over risk, compliance, and reputation
+* Move Diehl Metering ahead of market competitors
 
 This positions cybersecurity not as a constraint, but as a durable enabler of trust, resilience, and long-term European market leadership.
-
-Strategic Intent
-----------------
-
-This framework is not a consulting report.
-It is a living execution program designed to:
-
-- Protect business operations
-- Enable faster sales and public tender wins
-- Provide defensible executive accountability
-- Move Diehl Metering ahead of market competitors
 
 Next Steps for Executives
 -------------------------
