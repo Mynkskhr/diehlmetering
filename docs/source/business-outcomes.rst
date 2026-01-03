@@ -33,6 +33,9 @@ Germany First — Europe Without Fragmentation
 - Avoid duplication and “per country” chaos
 - Maintain one strategic compliance posture
 
+- `NIS2 2026 Overview <https://diehlmetering.thinkwerke.com/en/latest/nis2-2026/>`_
+- `Country-Specific NIS2 <https://diehlmetering.thinkwerke.com/en/latest/country-specific-nis2/>`_
+
 Reduced Executive Risk
 --------------------------
 
@@ -59,7 +62,5 @@ Outcome Summary
 
 Diehl Metering transitions from:
 
-- `NIS2 2026 Overview <https://diehlmetering.thinkwerke.com/en/latest/nis2-2026/>`_
-- `Country-Specific NIS2 <https://diehlmetering.thinkwerke.com/en/latest/country-specific-nis2/>`_
 - `Proof of Value <https://diehlmetering.thinkwerke.com/en/latest/proof-of-value.html/>`_
 
