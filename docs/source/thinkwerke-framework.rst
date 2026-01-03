@@ -63,7 +63,8 @@ This ensures:
 - Future regulations can be added without redesign
 
 Detailed mappings and control rationale are documented in:
-:doc:`NIS2, CRA, and ISO 27001 mappings <docs.thinkwerke.com/en/latest/compliance/index>`
+Detailed mappings and control rationale are documented in:
+`NIS2, CRA, and ISO 27001 mappings <https://docs.thinkwerke.com/en/latest/compliance/index.html>`_
 
 2. Controls Embedded into Engineering Reality
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
