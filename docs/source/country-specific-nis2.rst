@@ -86,9 +86,9 @@ The following elements are implemented **once** and reused everywhere:
 - Executive and audit reporting structures
 
 These components are documented in detail at:
-- :doc:`Secure Software Lifecycle <docs.thinkwerke.com/en/latest/solutions/secure-software-lifecycle>`
-- :doc:`Vulnerability Lifecycle <docs.thinkwerke.com/en/latest/solutions/vulnerability-lifecycle>`
-- :doc:`Evidence Library <docs.thinkwerke.com/en/latest/evidence-library/index>`
+- `Secure Software Lifecycle <https://docs.thinkwerke.com/en/latest/solutions/secure-software-lifecycle/>`_
+- `Vulnerability Lifecycle <https://docs.thinkwerke.com/en/latest/solutions/vulnerability-lifecycle/>`_
+- `Evidence Library <https://docs.thinkwerke.com/en/latest/evidence-library/index/>`_
 
 What Varies by Country
 ----------------------
