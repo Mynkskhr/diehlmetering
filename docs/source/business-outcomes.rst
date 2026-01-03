@@ -8,14 +8,14 @@ to the Division Board, SVPs, and senior leadership.
 Key Business Wins
 -----------------
 
-* Faster Sales & Tender Success
+Faster Sales & Tender Success
 ---------------------------------
 - Stronger scoring in regulated tenders
 - Shorter questionnaire cycles
 - Confidence for utilities and municipalities
 - Proactive proof instead of reactive justification
 
-* Evidence Once — Reused Everywhere
+Evidence Once — Reused Everywhere
 -------------------------------------
 - Centralised evidence library
 - Supports:
@@ -26,14 +26,14 @@ Key Business Wins
 - Removes Excel-based chaos
 - Reduces engineering dependency
 
-* Germany First — Europe Without Fragmentation
+Germany First — Europe Without Fragmentation
 ------------------------------------------------
 - Structured rollout anchored on Germany
 - Extend to other EU states without cost explosion
 - Avoid duplication and “per country” chaos
 - Maintain one strategic compliance posture
 
-* Reduced Executive Risk
+Reduced Executive Risk
 --------------------------
 
 Management accountability is explicitly required by NIS2.
@@ -44,7 +44,7 @@ This framework gives leadership:
 - structured oversight,
 - confidence when facing auditors, regulators, and Boards.
 
-* Competitive Advantage
+Competitive Advantage
 -------------------------
 
 Diehl Metering moves from compliance *claims* to compliance *proof*.
