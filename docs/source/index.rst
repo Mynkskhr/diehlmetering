@@ -42,7 +42,6 @@ with contineous deliverable milestone for SVPs of Diehl Metering to show the ful
    :caption: Thinkwerke Solution
 
    thinkwerke-framework
-   country-specific-nis2
    architecture-growth-protection
 
 .. toctree::
