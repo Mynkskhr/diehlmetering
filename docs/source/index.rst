@@ -24,7 +24,6 @@ with contineous deliverable milestone for SVPs of Diehl Metering to show the ful
    :maxdepth: 1
 
    nis2-2026
-   thinkwerke-framework
    country-specific-nis2
    architecture-development
    evidence-sales-enablement
@@ -40,9 +39,9 @@ with contineous deliverable milestone for SVPs of Diehl Metering to show the ful
 
 .. toctree::
    :maxdepth: 1
-   :caption: The Thinkwerke Framework
+   :caption: Thinkwerke Solution
 
-   unified-compliance-framework
+   thinkwerke-framework
    country-specific-nis2
    architecture-growth-protection
 
