@@ -16,7 +16,7 @@ This documentation provides leadership-level clarity on how **Diehl Metering** c
 Unified Approach
 -----------------
 
-Through a single, coherent execution plan, Thinkwerke ensures:
+Through a single, coherent approach, Thinkwerke ensures:
 
 * **NIS2 compliance by design**, aligned with national transpositions and supervisory expectations across EU jurisdictions.
 * **CRA readiness embedded into product engineering**, avoiding future rework, enforcement risk, and market disruption.
