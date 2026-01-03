@@ -63,17 +63,7 @@ Thinkwerke separates **what must be common** from **what must be local**.
 This allows Diehl Metering to operate one execution model, while still complying
 with national requirements.
 
-.. mermaid::
-
-   flowchart LR
-       A[Regulations]
-       B[Controls]
-       C[Engineering]
-       D[Evidence]
-
-       A --> B
-       B --> C
-       C --> D
+REGULATION --> CONTROLS --> ENGINEERING --> EVIDENCE
 
 **Flow explanation**
 
