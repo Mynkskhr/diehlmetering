@@ -9,9 +9,6 @@ Strategic NIS2, CRA, ISO 27001 & GDPR execution for multi-country EU operations.
 Purpose
 -------
 
-Executive Overview
-==================
-
 This documentation provides leadership-level clarity on how **Diehl Metering** can transform EU cybersecurity regulation from an operational obligation into a **strategic business advantage**.
 
 **Thinkwerke** enables Diehl Metering to move from reactive compliance toward **engineered governance**, delivering a unified execution model that supports business growth, protects market position, and strengthens customer trust across Europe.
