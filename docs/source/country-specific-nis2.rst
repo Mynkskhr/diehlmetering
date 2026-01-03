@@ -88,7 +88,7 @@ The following elements are implemented **once** and reused everywhere:
 These components are documented in detail at:
 - `Secure Software Lifecycle <https://docs.thinkwerke.com/en/latest/solutions/secure-software-lifecycle/>`_
 - `Vulnerability Lifecycle <https://docs.thinkwerke.com/en/latest/solutions/vulnerability-lifecycle/>`_
-- `Evidence Library <https://docs.thinkwerke.com/en/latest/evidence-library/index.html/>`_
+- `Evidence Library <https://docs.thinkwerke.com/en/latest/evidence-library/>`_
 
 What Varies by Country
 ----------------------
