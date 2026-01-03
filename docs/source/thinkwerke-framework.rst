@@ -115,9 +115,6 @@ This is achieved through:
 - Human-readable summaries derived from technical evidence
 - Consistent narratives for regulators, customers, and auditors
 
-Governance and executive views are explained in:
-`Executive Visibility <https://docs.thinkwerke.com/en/latest/executive-visibility>`_
-
 Country-Specific Without Fragmentation
 --------------------------------------
 
