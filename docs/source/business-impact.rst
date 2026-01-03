@@ -104,4 +104,12 @@ What This Means for Diehl Metering
 
 At group and divisional level, the impact is measurable:
 
-- Faster regulated market en
+- Faster regulated market entry
+- Improved positioning with utilities and public-sector buyers
+- Reduced compliance risk during growth
+- A demonstrably mature security posture
+
+Most importantly:
+
+Security and compliance stop being blockers
+and start supporting business strategy.
