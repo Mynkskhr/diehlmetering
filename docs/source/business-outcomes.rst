@@ -42,9 +42,8 @@ Reduced Executive Risk
 Management accountability is explicitly required by NIS2.
 This framework gives leadership:
 
-- defensible evidence,
-- documented governance,
-- structured oversight,
+- documented governance, always trackable always avaliable
+- structured oversight, every key detail in "Executive Documentation"
 - confidence when facing auditors, regulators, and Boards.
 
 Competitive Advantage
@@ -56,11 +55,4 @@ This becomes:
 - a trust signal to utilities,
 - a differentiator in competitive sales,
 - an assurance layer for strategic partners.
-
-Outcome Summary
----------------
-
-Diehl Metering transitions from:
-
-- `Proof of Value <https://diehlmetering.thinkwerke.com/en/latest/proof-of-value.html/>`_
 
