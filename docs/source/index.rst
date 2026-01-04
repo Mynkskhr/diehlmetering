@@ -1,5 +1,5 @@
-A Unified EU Cybersecurity & Compliance Framework for Diehl Metering
-====================================================================
+Index of Contents
+=================
 
 .. toctree::
    :maxdepth: 1
